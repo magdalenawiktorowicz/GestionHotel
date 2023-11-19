@@ -1,4 +1,4 @@
-package es.studium.practica3_AD;
+package es.studium.practica2_AD;
 
 public class Cliente { 
 	private int idCliente; 
